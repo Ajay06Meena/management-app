@@ -1,0 +1,99 @@
+.header-btn{
+    display: flex;
+    justify-content: space-between;
+    padding: 55px 39px;
+}
+
+.head-btn{
+    background-color: gray;
+    border-radius: 5px;
+    height: 44px;
+}
+
+.create-btn{
+    background-color: gainsboro;
+    color: black;
+    border-radius: 5px;
+}
+
+.project-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .project-form h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+ select,  input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .date-picker {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  
+  /* button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  } */
+  
+  .pending-task{
+    background-color: rgb(243, 239, 239);
+    height: 215px;
+    width: 339px;
+    /* margin-top: 73px; */
+    padding: 22px;
+    border-radius: 30px;
+}
+
+.recent-activity{
+    background-color: rgb(243, 239, 239);
+    height: 215px;
+    width: 339px;
+    /* margin-top: 73px; */
+    padding: 22px;
+    border-radius: 30px;
+    overflow: scroll;
+}
+.upcoming{
+    background-color: rgb(243, 239, 239);
+    height: 335px;
+    width: 825px;
+    margin-top: 13px;
+    padding: 22px;
+    border-radius: 30px;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    width: 766px;
+}
+

@@ -1,0 +1,9 @@
+.project-list1 {
+    border: 2px solid hsl(0, 2%, 55%);
+    width: 716px;
+    height: 48px;
+    /* margin-top: 110px; */
+    border-radius: 9px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }

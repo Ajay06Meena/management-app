@@ -1,0 +1,68 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.dash {
+    /* margin-top: 200px ; */
+    position: relative;
+    top: 10px;
+    left: 50px;
+    height: auto;
+    width: auto;
+    background-color: rgb(243, 239, 239);
+    border-radius: 23px;
+  }
+
+.box-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    }
+
+.btn1{
+    /* margin: 10px; */
+    background-color: white;
+    border-radius: 26px;
+    color: black;
+    margin-right: 10px;
+}
+.btn2{
+    /* margin: 10px; */
+    background-color: black;
+    border-radius: 26px;
+}
+
+.project-data{
+    background-color: rgb(243, 239, 239);
+    height: auto;
+    width: max-content;
+    margin-top: 93px;
+    padding: 22px;
+    border-radius: 30px;
+}
+
+.project-data1{
+    background-color: rgb(243, 239, 239);
+    height: 332px;
+    width: 400px;
+    margin-top: 93px;
+    padding: 22px;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+
+.project-item{
+    background-color: white;
+    height: 43px;
+    width: 614px;
+    padding: 6px 75px;
+    margin-left: 14px;
+    border-radius: 14px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.details{
+display: flex;
+justify-content: space-between;
+width: max-content;
+
+}
